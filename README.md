@@ -1,2 +1,0 @@
-# Gigabyte-Changelog
-Changelog Website
